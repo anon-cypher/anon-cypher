@@ -38,12 +38,6 @@
 - **Engineering Drawing QA**: YOLO + TrOCR pipeline for blueprint validation, helping reduce manual QA workload by 60%.
 - **Semiconductor Defect Detection**: High-speed CV-driven defect detection pipeline optimized for precision and throughput.
 
-## Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,sql,bash,pytorch,tensorflow,fastapi,django,docker,kubernetes,aws,postgres,mongodb,mysql,git" alt="Skills" />
-</p>
-
 ## GitHub Analytics
 
 <p align="center">
@@ -60,9 +54,6 @@
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=anon-cypher&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
-<p align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=anon-cypher&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
-</p>
 
 ## Tools and Technologies
 
