@@ -1,263 +1,91 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI%2FML+Systems+Engineer;Building+RAG+%26+LLM+Systems;Scale+>+Syntax" />
+  <img src="./Yellow & Black Geometric Personal Branding LinkedIn Banner (1).png" alt="Banner" />
 </p>
-
-
-<!-- 🔥 Banner -->
 
 <p align="center">
-  <img src="Yellow & Black Geometric Personal Branding LinkedIn Banner (1).png" />
-</p>
-
-<!-- 🔥 BOOT + HEADER -->
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2000&pause=500&color=00F7FF&center=false&vCenter=true&width=800&lines=booting+anon-cypher...;loading+ai+modules...;initializing+systems...;starting+rag+engine...;access+granted." />
-</p>
-
----
-
-
-<!-- ⚡ WHOAMI COMMAND -->
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=1800&pause=800&color=00FF9C&vCenter=true&width=600&lines=$+whoami" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00FF9C&center=true&vCenter=true&width=980&height=110&background=0D1117&lines=anon-cypher%40system%3A~%24+whoami;Shubham+Gupta+%7C+AI%2FML+Systems+Engineer;anon-cypher%40system%3A~%24+ls+stack%2F;agentic_ai+rag+llm_infra+mlops+computer_vision;anon-cypher%40system%3A~%24+cat+impact.log;60%25+manual+QA+reduction+%7C+89%25+accuracy+%7C+3.5%2B+years+experience" alt="Terminal Typing" />
 </p>
 
 ```bash
-anon-cypher (Shubham)
-AI/ML Systems Engineer
-
-→ building scalable AI systems beyond demos
-```
-
----
-
-<!-- ⚡ MISSION -->
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=1800&pause=800&color=00FF9C&vCenter=true&width=600&lines=$+cat+mission.txt" />
-</p>
-
-```bash
-- design production-grade ML systems
-- build RAG pipelines & AI assistants
-- focus on infra, scalability, real-world deployment
-```
-
----
-
-<!-- ⚡ STACK -->
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=1800&pause=800&color=00FF9C&vCenter=true&width=600&lines=$+ls+stack/" />
-</p>
-
-```bash
-languages   → python, typescript, sql
-ml          → pytorch, tensorflow, llms, rag
-backend     → fastapi, node.js
-infra       → docker, apis, system design
-core        → dsa, os, dbms, networking
-```
-
----
-
-<!-- ⚡ PROJECTS -->
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=1800&pause=800&color=00FF9C&vCenter=true&width=700&lines=$+./run_projects.sh" />
-</p>
-
-```text
-[✔] RAG Playground initialized
-    → llm pipelines with retrieval + embeddings
-
-[✔] AI Data Assistant running
-    → data → insights using llms
-
-[✔] RCAaaS deployed
-    → root cause analysis using AI
-```
-
----
-
-<!-- ⚡ STATUS -->
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=1800&pause=800&color=00FF9C&vCenter=true&width=600&lines=$+system_status" />
-</p>
-
-```bash
-DSA            → in progress ⚔️
-System Design  → scaling mindset 🏗️
-ML Systems     → production focus 🤖
-```
-
----
-
-<!-- ⚡ PHILOSOPHY -->
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=1800&pause=800&color=00FF9C&vCenter=true&width=600&lines=$+cat+philosophy.md" />
-</p>
-
-```text
-models are easy.
-systems are hard.
-
-if it doesn't scale,
-it doesn't exist.
-```
-
----
-
-<!-- ⚡ CONNECT -->
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=1800&pause=800&color=00FF9C&vCenter=true&width=600&lines=$+connect+--me" />
-</p>
-
-```text
-linkedin   → linkedin.com/in/anon-cypher
-portfolio  → anon-cypher-portfolio.vercel.app
-instagram  → @anon.cypher
-```
-
----
-
-<!-- ⚡ LOGS -->
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=1800&pause=800&color=00FF9C&vCenter=true&width=700&lines=$+tail+-f+journey.log" />
-</p>
-
-```bash
-> build → break → optimize → scale → repeat
-> status: shipping systems 🚀
-```
-
----
-
-<p align="center">
-  ⚡ anon-cypher system fully operational
-</p>
-
-
-```bash
-┌──(anon-cypher㉿system)-[~/ai-systems]
-└─$ whoami
-```
-
-```text
-Shubham | AI/ML Systems Engineer
-→ building scalable AI systems beyond demos
-```
-
----
-
-```bash
-┌──(anon-cypher㉿system)-[~/focus]
+┌──(anon-cypher@system)-[~/ai-systems]
 └─$ cat mission.txt
+- Design production-grade ML and GenAI systems
+- Build agentic workflows and RAG assistants
+- Optimize reliability, latency, and deployment at scale
 ```
-
-```text
-- design production-grade ML systems
-- build RAG pipelines & AI assistants
-- focus on infra, scalability, and real-world deployment
-```
-
----
 
 ```bash
-┌──(anon-cypher㉿system)-[~/stack]
+┌──(anon-cypher@system)-[~/stack]
 └─$ ls -la
+languages/     -> python, javascript, sql, bash
+ml_ai/         -> pytorch, tensorflow, transformers, langchain, langgraph, autogen
+backend/       -> fastapi, django, node.js
+llm_data/      -> faiss, chromadb, pinecone, openai api, hugging face
+infra_mlop/    -> docker, mlflow, jenkins, aws (ec2/s3/lambda), kubernetes
+databases/     -> postgresql, mongodb, mysql
 ```
-
-```text
-languages/        → python, typescript, sql
-ml/               → pytorch, tensorflow, llms, rag
-backend/          → fastapi, node.js
-infra/            → docker, apis, system design
-core/             → dsa, os, dbms, networking
-```
-
----
 
 ```bash
-┌──(anon-cypher㉿system)-[~/projects]
-└─$ ./run_projects.sh
+┌──(anon-cypher@system)-[~/impact]
+└─$ cat impact.log
+[+] 3.5+ years building AI/ML systems in production
+[+] 60% reduction in manual QA through CV + OCR automation
+[+] 89% accuracy in engineering drawing QA pipeline
+[+] Awards: Global Excellence, Global Best Project, Spotlight, MSI Contribution
 ```
-
-```text
-[RAG Playground]
-→ real-world llm pipelines (retrieval + generation)
-→ optimized for latency & accuracy
-
-[AI Data Assistant]
-→ converts raw data → insights using llms
-→ focuses on structured querying & pipelines
-
-[RCAaaS]
-→ ai-powered root cause analysis
-→ debugging systems at scale
-```
-
----
 
 ```bash
-┌──(anon-cypher㉿system)-[~/status]
-└─$ uptime
-```
+┌──(anon-cypher@system)-[~/deployments]
+└─$ ./run_featured_systems.sh
+[Smart Factory Edge MLOps]
+-> Edge-to-cloud inference and automated model deployment
+-> TensorRT, Triton, FastAPI, Docker, AWS IoT
 
-```text
-DSA            → sharpening problem solving ⚔️
-System Design  → thinking in distributed systems 🏗️
-ML Systems     → building production AI 🤖
-```
+[Document-to-JSON LLM Parser]
+-> Converts unstructured PDFs and scans into structured JSON
+-> GPT-4, LangChain, TrOCR, FAISS, FastAPI
 
----
+[Engineering Drawing QA]
+-> YOLO + TrOCR validation for blueprint quality checks
+-> Reduced manual QA workload by 60%
+
+[Semiconductor Defect Detection]
+-> High-speed defect detection using deep learning and CV optimization
+```
 
 ```bash
-┌──(anon-cypher㉿system)-[~/philosophy]
+┌──(anon-cypher@system)-[~/timeline]
+└─$ tail -n 8 journey.log
+2026 - Present  | AI/ML Engineer          | Mindfire Solutions
+2023 - 2026     | AI Engineer             | HL Mando
+2022            | Security Automation Eng | BreachLock
+2021 - 2022     | ML Intern               | ThinkingStack
+```
+
+```bash
+┌──(anon-cypher@system)-[~/philosophy]
 └─$ cat principles.md
-```
-
-```text
 models are easy.
 systems are hard.
-
-if it doesn't scale,
-it doesn't exist.
+if it doesn't scale, it doesn't exist.
 ```
 
----
-
 ```bash
-┌──(anon-cypher㉿system)-[~/connect]
+┌──(anon-cypher@system)-[~/connect]
 └─$ ./reach_me.sh
+linkedin   -> https://linkedin.com/in/anon-cypher
+portfolio  -> https://anon-cypher-portfolio.vercel.app/
+github     -> https://github.com/anon-cypher/
+email      -> shubham.sg53147@gmail.com
 ```
-
-```text
-linkedin   → linkedin.com/in/anon-cypher
-portfolio  → anon-cypher-portfolio.vercel.app
-instagram  → @anon.cypher
-```
-
----
-
-```bash
-┌──(anon-cypher㉿system)-[~/logs]
-└─$ tail -f journey.log
-```
-
-```text
-> build → break → optimize → scale → repeat
-> status: shipping systems 🚀
-```
-
----
 
 <p align="center">
-  ⚡ anon-cypher | AI systems in motion
+  <a href="https://linkedin.com/in/anon-cypher"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://anon-cypher-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/anon-cypher/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:shubham.sg53147@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <b>build -> break -> optimize -> scale -> repeat</b>
 </p>
