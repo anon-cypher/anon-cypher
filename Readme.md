@@ -47,8 +47,27 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anon-cypher&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=anon-cypher&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anon-cypher&theme=github_dark" alt="GitHub Stats Card" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anon-cypher&theme=github_dark" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anon-cypher&theme=github_dark" alt="Most Commit Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anon-cypher&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=anon-cypher&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=anon-cypher&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+## Tools and Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,js,ts,html,css,cpp,aws,gcp,docker,git,linux,selenium" alt="Tools" />
 </p>
 
 <p align="center">
