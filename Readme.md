@@ -5,7 +5,7 @@
 <!-- 🔥 Banner -->
 
 <p align="center">
-  <img src="YOUR_BANNER_LINK_HERE" />
+  <img src="Yellow & Black Geometric Personal Branding LinkedIn Banner (1).png" />
 </p>
 
 ```bash
