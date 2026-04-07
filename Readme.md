@@ -1,83 +1,55 @@
 <p align="center">
-  <img src="./Yellow & Black Geometric Personal Branding LinkedIn Banner (1).png" alt="Banner" />
+  <img src="./Yellow%20%26%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner%20%281%29.png" alt="Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00FF9C&center=true&vCenter=true&width=980&height=110&background=0D1117&lines=anon-cypher%40system%3A~%24+whoami;Shubham+Gupta+%7C+AI%2FML+Systems+Engineer;anon-cypher%40system%3A~%24+ls+stack%2F;agentic_ai+rag+llm_infra+mlops+computer_vision;anon-cypher%40system%3A~%24+cat+impact.log;60%25+manual+QA+reduction+%7C+89%25+accuracy+%7C+3.5%2B+years+experience" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=0A66C2&center=true&vCenter=true&width=980&lines=Shubham+Gupta+%7C+AI%2FML+Systems+Engineer;Agentic+AI+%7C+RAG+%7C+LLM+Infrastructure;Building+Production-Grade+AI+Systems" alt="Typing Intro" />
 </p>
 
-```bash
-┌──(anon-cypher@system)-[~/ai-systems]
-└─$ cat mission.txt
-- Design production-grade ML and GenAI systems
-- Build agentic workflows and RAG assistants
-- Optimize reliability, latency, and deployment at scale
-```
+<p align="center">
+  AI / Machine Learning Engineer focused on building reliable, scalable systems that move beyond experimentation into production.
+</p>
 
-```bash
-┌──(anon-cypher@system)-[~/stack]
-└─$ ls -la
-languages/     -> python, javascript, sql, bash
-ml_ai/         -> pytorch, tensorflow, transformers, langchain, langgraph, autogen
-backend/       -> fastapi, django, node.js
-llm_data/      -> faiss, chromadb, pinecone, openai api, hugging face
-infra_mlop/    -> docker, mlflow, jenkins, aws (ec2/s3/lambda), kubernetes
-databases/     -> postgresql, mongodb, mysql
-```
+<p align="center">
+  <a href="https://anon-cypher-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/anon-cypher"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shubham.sg53147@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-```bash
-┌──(anon-cypher@system)-[~/impact]
-└─$ cat impact.log
-[+] 3.5+ years building AI/ML systems in production
-[+] 60% reduction in manual QA through CV + OCR automation
-[+] 89% accuracy in engineering drawing QA pipeline
-[+] Awards: Global Excellence, Global Best Project, Spotlight, MSI Contribution
-```
+## About Me
 
-```bash
-┌──(anon-cypher@system)-[~/deployments]
-└─$ ./run_featured_systems.sh
-[Smart Factory Edge MLOps]
--> Edge-to-cloud inference and automated model deployment
--> TensorRT, Triton, FastAPI, Docker, AWS IoT
+- 3.5+ years of experience delivering AI/ML and GenAI systems in production.
+- Building agentic workflows, RAG pipelines, and LLM-powered automation.
+- Focused on system reliability, latency optimization, and scalable deployment.
 
-[Document-to-JSON LLM Parser]
--> Converts unstructured PDFs and scans into structured JSON
--> GPT-4, LangChain, TrOCR, FAISS, FastAPI
+## Impact
 
-[Engineering Drawing QA]
--> YOLO + TrOCR validation for blueprint quality checks
--> Reduced manual QA workload by 60%
+<p align="left">
+  <img src="https://img.shields.io/badge/Experience-3.5%2B%20Years-0A66C2?style=for-the-badge" alt="Experience" />
+  <img src="https://img.shields.io/badge/QA%20Reduction-60%25-16A34A?style=for-the-badge" alt="QA Reduction" />
+  <img src="https://img.shields.io/badge/Drawing%20QA%20Accuracy-89%25-7C3AED?style=for-the-badge" alt="Accuracy" />
+  <img src="https://img.shields.io/badge/Awards-Multiple-DC2626?style=for-the-badge" alt="Awards" />
+</p>
 
-[Semiconductor Defect Detection]
--> High-speed defect detection using deep learning and CV optimization
-```
+## Featured Systems
 
-```bash
-┌──(anon-cypher@system)-[~/timeline]
-└─$ tail -n 8 journey.log
-2026 - Present  | AI/ML Engineer          | Mindfire Solutions
-2023 - 2026     | AI Engineer             | HL Mando
-2022            | Security Automation Eng | BreachLock
-2021 - 2022     | ML Intern               | ThinkingStack
-```
+- **Smart Factory Edge MLOps**: Edge-to-cloud inference and automated model deployment with TensorRT, Triton, FastAPI, Docker, and AWS IoT.
+- **Document-to-JSON LLM Parser**: Converts unstructured documents into structured JSON using GPT-4, LangChain, TrOCR, FAISS, and FastAPI.
+- **Engineering Drawing QA**: YOLO + TrOCR pipeline for blueprint validation, helping reduce manual QA workload by 60%.
+- **Semiconductor Defect Detection**: High-speed CV-driven defect detection pipeline optimized for precision and throughput.
 
-```bash
-┌──(anon-cypher@system)-[~/philosophy]
-└─$ cat principles.md
-models are easy.
-systems are hard.
-if it doesn't scale, it doesn't exist.
-```
+## Tech Stack
 
-```bash
-┌──(anon-cypher@system)-[~/connect]
-└─$ ./reach_me.sh
-linkedin   -> https://linkedin.com/in/anon-cypher
-portfolio  -> https://anon-cypher-portfolio.vercel.app/
-github     -> https://github.com/anon-cypher/
-email      -> shubham.sg53147@gmail.com
-```
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,sql,bash,pytorch,tensorflow,fastapi,django,docker,kubernetes,aws,postgres,mongodb,mysql,git" alt="Skills" />
+</p>
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anon-cypher&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=anon-cypher&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/anon-cypher"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -87,5 +59,5 @@ email      -> shubham.sg53147@gmail.com
 </p>
 
 <p align="center">
-  <b>build -> break -> optimize -> scale -> repeat</b>
+  <b>Build -> Break -> Optimize -> Scale -> Repeat</b>
 </p>
