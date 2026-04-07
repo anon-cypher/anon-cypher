@@ -11,19 +11,12 @@
 
 <!-- 🔥 BOOT + HEADER -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=booting+anon-cypher...;loading+ai+modules...;initializing+systems...;starting+rag+engine...;access+granted." />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2000&pause=500&color=00F7FF&center=false&vCenter=true&width=800&lines=booting+anon-cypher...;loading+ai+modules...;initializing+systems...;starting+rag+engine...;access+granted." />
 </p>
 
 ---
 
-<!-- 🎨 BANNER -->
-
-<p align="center">
-  <img src="YOUR_BANNER_LINK_HERE" />
-</p>
-
----
 
 <!-- ⚡ WHOAMI COMMAND -->
 
@@ -31,7 +24,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=1800&pause=800&color=00FF9C&vCenter=true&width=600&lines=$+whoami" />
 </p>
 
-```text
+```bash
 anon-cypher (Shubham)
 AI/ML Systems Engineer
 
@@ -46,7 +39,7 @@ AI/ML Systems Engineer
   <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=1800&pause=800&color=00FF9C&vCenter=true&width=600&lines=$+cat+mission.txt" />
 </p>
 
-```text
+```bash
 - design production-grade ML systems
 - build RAG pipelines & AI assistants
 - focus on infra, scalability, real-world deployment
@@ -60,7 +53,7 @@ AI/ML Systems Engineer
   <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=1800&pause=800&color=00FF9C&vCenter=true&width=600&lines=$+ls+stack/" />
 </p>
 
-```text
+```bash
 languages   → python, typescript, sql
 ml          → pytorch, tensorflow, llms, rag
 backend     → fastapi, node.js
@@ -95,7 +88,7 @@ core        → dsa, os, dbms, networking
   <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=1800&pause=800&color=00FF9C&vCenter=true&width=600&lines=$+system_status" />
 </p>
 
-```text
+```bash
 DSA            → in progress ⚔️
 System Design  → scaling mindset 🏗️
 ML Systems     → production focus 🤖
@@ -139,7 +132,7 @@ instagram  → @anon.cypher
   <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=1800&pause=800&color=00FF9C&vCenter=true&width=700&lines=$+tail+-f+journey.log" />
 </p>
 
-```text
+```bash
 > build → break → optimize → scale → repeat
 > status: shipping systems 🚀
 ```
