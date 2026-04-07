@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI%2FML+Systems+Engineer;Building+RAG+%26+LLM+Systems;Scale+>+Syntax" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=whoami;loading+profile...;initializing+AI+systems...;running+projects.sh;done." />
+</p>
+
 <!-- 🔥 Banner -->
 
 <p align="center">
