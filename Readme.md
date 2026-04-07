@@ -38,23 +38,6 @@
 - **Engineering Drawing QA**: YOLO + TrOCR pipeline for blueprint validation, helping reduce manual QA workload by 60%.
 - **Semiconductor Defect Detection**: High-speed CV-driven defect detection pipeline optimized for precision and throughput.
 
-## GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anon-cypher&theme=github_dark" alt="GitHub Stats Card" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anon-cypher&theme=github_dark" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anon-cypher&theme=github_dark" alt="Most Commit Language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anon-cypher&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=anon-cypher&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-
 ## Tools and Technologies
 
 <p align="center">
@@ -71,3 +54,20 @@
 <p align="center">
   <b>Build -> Break -> Optimize -> Scale -> Repeat</b>
 </p>
+
+## GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anon-cypher&theme=github_dark" alt="GitHub Stats Card" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anon-cypher&theme=github_dark" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anon-cypher&theme=github_dark" alt="Most Commit Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anon-cypher&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=anon-cypher&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
